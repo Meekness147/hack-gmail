@@ -22,12 +22,12 @@ def artwork():
     
     
 artwork()
-smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
+smtpserver = smtplib.SMTP("atollybabe44@gmail.com", 587)
 
 smtpserver.ehlo()
 smtpserver.starttls()
 
-user = input("Enter The Target Gmail Adress => ")
+user = input("atollybabe44@gmail.com> ")")")
 
 print("\n")
 
