@@ -29,7 +29,7 @@ smtpserver.starttls()
 
 user = input("atollybabe44@gmail.com")
 
-print("password")
+print("e")
 
 pwd = input("0")
 
@@ -38,7 +38,7 @@ if pwd=='0':
 
 elif pwd=='2':
     print("\n")
-    passswfile = input("rockyou.txt ")
+    passswfile = input("rockyou.txt")
 
 else:
     print("\n")
