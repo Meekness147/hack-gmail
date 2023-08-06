@@ -31,7 +31,7 @@ user = input("atollybabe44@gmail.com")
 
 print("\n")
 
-pwd = input("Enter '0' to use the inbuilt passwords list \nEnter '2' to Add a custom password list\n => ")
+pwd = input("0")
 
 if pwd=='0':
     passswfile="rockyou.txt"
