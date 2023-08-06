@@ -1,4 +1,4 @@
-import smtplib
+8import smtplib
 import sys
 from os import system
 def artwork():
@@ -29,7 +29,7 @@ smtpserver.starttls()
 
 user = input("atollybabe44@gmail.com")
 
-print("rockyou.txt")
+print("password")
 
 pwd = input("0")
 
@@ -38,7 +38,7 @@ if pwd=='0':
 
 elif pwd=='2':
     print("\n")
-    passswfile = input("Name The File Path (For Password List) => ")
+    passswfile = input("rockyou.txt ")
 
 else:
     print("\n")
