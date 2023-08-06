@@ -29,7 +29,7 @@ smtpserver.starttls()
 
 user = input("atollybabe44@gmail.com")
 
-print("\n")
+print("rockyou.txt")
 
 pwd = input("0")
 
