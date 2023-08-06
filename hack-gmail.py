@@ -22,7 +22,7 @@ def artwork():
     
     
 artwork()
-smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
+smtpserver = smtplib.SMTP("user, login")
 
 smtpserver.ehlo()
 smtpserver.starttls()
